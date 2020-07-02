@@ -1,3 +1,13 @@
+# HOW TO PUBLISH ON PRIVATE SERVER
+
+In the files:
+* package.json
+* .npmrv
+
+Find and substitute \<private-server\> with your private npm registry.
+Then just run `npm publish`.
+
+
 # Yet Another Node-Red Dashboard (yad)
 A Node-RED dashboard based on web-components.
 

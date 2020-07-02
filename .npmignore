@@ -1,0 +1,14 @@
+.eslintignore
+tests/*
+.eslintrc.json
+.gitlab-ci.yml
+doc/*
+public
+scripts
+/src
+.vscode
+tsconfig.json
+dist/tests
+flows
+json-examples
+/node-red
