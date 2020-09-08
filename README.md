@@ -2,7 +2,7 @@
 
 In the files:
 * package.json
-* .npmrv
+* .npmrc
 
 Find and substitute \<private-server\> with your private npm registry.
 Then just run `npm publish`.
