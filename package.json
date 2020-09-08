@@ -37,6 +37,6 @@
     "private": false,
     "publishConfig": {
         "access": "restricted",
-        "registry": "http://smart.gizeroenergie.com:4873"
+        "registry": "<url>:4873"
     }
 }
