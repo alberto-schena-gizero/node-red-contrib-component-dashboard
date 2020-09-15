@@ -1,6 +1,6 @@
 {
     "name": "@gizero/node-red-contrib-component-dashboard",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "description": "dashboard",
     "keywords": [
         "node-red",
